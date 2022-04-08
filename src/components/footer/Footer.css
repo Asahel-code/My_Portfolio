@@ -1,0 +1,30 @@
+.footer-frame{
+    background-color: #2C3E50;
+
+}
+.input-field{
+    height: 30px;
+    margin-right:5px;
+}
+
+.icons a i:hover {
+    color: #6c3483;
+}
+
+.butt{
+    height: 30px;
+    padding:0 1em;
+    background-color:#458172;
+    border: none;
+    border-radius:0.3em;
+    
+}
+.butt:hover{
+    background-color: #6c3483;
+    color: #fff;
+}
+
+
+
+
+
